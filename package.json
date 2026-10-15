@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-checkpoint",
+  "version": "1.0.0",
+  "description": "CRUD exercises on a `Person` model with Mongoose and MongoDB Atlas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.6",
+    "mongodb": "^4.17.2",
+    "mongoose": "^6.13.11"
+  }
+}
